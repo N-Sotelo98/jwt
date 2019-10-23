@@ -1,3 +1,2 @@
 # Tarea JWT
-
-> Contiene los test de Postman.
+Contiene los test de Postman.
